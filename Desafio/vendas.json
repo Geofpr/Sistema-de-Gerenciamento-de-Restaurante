@@ -1,0 +1,119 @@
+[
+    {
+        "mesa": "Brasil",
+        "total": 110.0,
+        "forma_pagamento": "cartao"
+    },
+    {
+        "mesa": "Brasil",
+        "total": 105.5,
+        "forma_pagamento": "Pix",
+        "data": "17/04/2025 20:15:44",
+        "pedido": [
+            [
+                "Hamburguer BBK",
+                "File Mignon ao Molho Madeira com Pure Trufado"
+            ]
+        ]
+    },
+    {
+        "mesa": "Italia",
+        "total": 128.5,
+        "forma_pagamento": "Cartao",
+        "data": "17/04/2025 20:54:02",
+        "pedido": [
+            [
+                "Hamburguer BBK",
+                "File Mignon ao Molho Madeira com Pure Trufado",
+                "Vinho Branco Chardonnay (Taca)"
+            ]
+        ]
+    },
+    {
+        "mesa": "Alemanha",
+        "total": 94.9,
+        "forma_pagamento": "Cartao Credito",
+        "data": "17/04/2025 21:03:49",
+        "pedido": [
+            [
+                "Vinho Branco Chardonnay (Taca)",
+                "Salada Vegana de Grao-de-Bico e Abacate",
+                "Spaghetti ao Pesto com Tomatinhos Confitados"
+            ]
+        ]
+    },
+    {
+        "mesa": "Japao",
+        "total": 156.9,
+        "forma_pagamento": "Cartao Credito",
+        "data": "17/04/2025 21:05:09",
+        "pedido": [
+            [
+                "Hamburguer BBK",
+                "Salada Vegana de Grao-de-Bico e Abacate",
+                "Spaghetti ao Pesto com Tomatinhos Confitados",
+                "Vinho Tinto Seco Cabernet Sauvignon (Taca)",
+                "Vinho Branco Chardonnay (Taca)"
+            ]
+        ]
+    },
+    {
+        "mesa": "Brasil",
+        "total": 159.4,
+        "forma_pagamento": "Dinheiro",
+        "data": "18/04/2025 09:28:21",
+        "pedido": [
+            [
+                "Hamburguer BBK",
+                "Salada Vegana de Grao-de-Bico e Abacate",
+                "File Mignon ao Molho Madeira com Pure Trufado",
+                "Vinho Tinto Seco Cabernet Sauvignon (Taca)"
+            ]
+        ]
+    },
+    {
+        "mesa": "Alemanha",
+        "total_bruto": 38.0,
+        "ajuste": {
+            "tipo": "Taxa",
+            "valor": 5.7
+        },
+        "total_final": 43.7,
+        "forma_pagamento": "Dinheiro",
+        "data": "18/04/2025 09:45:57",
+        "pedido": [
+            [
+                "Hamburguer BBK"
+            ]
+        ]
+    },
+    {
+        "mesa": "Brasil",
+        "total_bruto": 29.9,
+        "ajuste": {
+            "tipo": "Taxa",
+            "valor": 7.475
+        },
+        "total_final": 37.375,
+        "forma_pagamento": "Dinheiro",
+        "data": "18/04/2025 10:09:41",
+        "pedido": [
+            [
+                "Salada Vegana de Grao-de-Bico e Abacate"
+            ]
+        ]
+    },
+    {
+        "mesa": "India",
+        "total_bruto": 23.0,
+        "ajuste": null,
+        "total_final": 23.0,
+        "forma_pagamento": "Pix",
+        "data": "18/04/2025 10:10:56",
+        "pedido": [
+            [
+                "Vinho Branco Chardonnay (Taca)"
+            ]
+        ]
+    }
+]

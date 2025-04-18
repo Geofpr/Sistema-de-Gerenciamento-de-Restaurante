@@ -1,0 +1,28 @@
+[
+    {
+        "mesa": "Brasil",
+        "itens": [
+            {
+                "item": "Tiramisu Classico",
+                "quantidade": 1
+            },
+            {
+                "item": "Red Energy Drink",
+                "quantidade": 2
+            },
+            {
+                "item": "Hamburguer Artesanal BBQ",
+                "quantidade": 2
+            }
+        ]
+    },
+    {
+        "mesa": "Alemanha",
+        "itens": [
+            {
+                "item": "Hamburguer BBK",
+                "quantidade": 1
+            }
+        ]
+    }
+]

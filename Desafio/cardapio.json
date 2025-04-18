@@ -1,0 +1,180 @@
+[
+    {
+        "nome": "Hamburguer BBK",
+        "descricao": "Hamburguer suculento com cheddar derretido, bacon crocante e molho barbecue, servido em pao brioche tostado.",
+        "preco": 38.0,
+        "ingredientes": [
+            {
+                "codigo": "P4B35B1O",
+                "quantidade": 1
+            },
+            {
+                "codigo": "C4R3M3B0",
+                "quantidade": 1
+            },
+            {
+                "codigo": "Q4U1C0H3",
+                "quantidade": 1
+            },
+            {
+                "codigo": "B4C0N2X1",
+                "quantidade": 1
+            },
+            {
+                "codigo": "M0L10B8Q",
+                "quantidade": 1
+            },
+            {
+                "codigo": "C3B0L4C5",
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "nome": "Salada Vegana de Grao-de-Bico e Abacate",
+        "descricao": "Grao-de-bico cozido, abacate e legumes frescos temperados com limao e hortela, numa combinacao leve e refrescante.",
+        "preco": 29.9,
+        "ingredientes": [
+            {
+                "codigo": "G4R3B1C0",
+                "quantidade": 1
+            },
+            {
+                "codigo": "A1B4C4T3",
+                "quantidade": 1
+            },
+            {
+                "codigo": "T0M1C3C0",
+                "quantidade": 1
+            },
+            {
+                "codigo": "P3E1C3U2",
+                "quantidade": 1
+            },
+            {
+                "codigo": "C4N0R4L1",
+                "quantidade": 1
+            },
+            {
+                "codigo": "L1M4O0S1",
+                "quantidade": 1
+            },
+            {
+                "codigo": "H0R1T3L4",
+                "quantidade": 1
+            },
+            {
+                "codigo": "A1Z3O4L5",
+                "quantidade": 1
+            },
+            {
+                "codigo": "S4A1L5O0",
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "nome": "File Mignon ao Molho Madeira com Pure Trufado",
+        "descricao": "Medalhao de mignon grelhado com molho madeira e cogumelos, acompanhado de pure cremoso com toque de azeite de trufas.",
+        "preco": 67.5,
+        "ingredientes": [
+            {
+                "codigo": "F1L3M1GN",
+                "quantidade": 1
+            },
+            {
+                "codigo": "V1M4D1R1",
+                "quantidade": 1
+            },
+            {
+                "codigo": "C0G1M3L2",
+                "quantidade": 1
+            },
+            {
+                "codigo": "M4N10T5",
+                "quantidade": 1
+            },
+            {
+                "codigo": "B4T4T1A",
+                "quantidade": 1
+            },
+            {
+                "codigo": "A1Z3T4R1",
+                "quantidade": 1
+            },
+            {
+                "codigo": "L3E1T3E",
+                "quantidade": 1
+            },
+            {
+                "codigo": "S4A1L5O0",
+                "quantidade": 1
+            },
+            {
+                "codigo": "P1I2M4E",
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "nome": "Spaghetti ao Pesto com Tomatinhos Confitados",
+        "descricao": "Massa al dente envolvida em pesto caseiro de manjericao, servida com tomatinhos assados lentamente no azeite.",
+        "preco": 42.0,
+        "ingredientes": [
+            {
+                "codigo": "S5P4A2G",
+                "quantidade": 1
+            },
+            {
+                "codigo": "M1N3J5C",
+                "quantidade": 1
+            },
+            {
+                "codigo": "A1L3H0",
+                "quantidade": 1
+            },
+            {
+                "codigo": "C1A2S3C",
+                "quantidade": 1
+            },
+            {
+                "codigo": "P4RM3S3O",
+                "quantidade": 1
+            },
+            {
+                "codigo": "A1Z3O4L5",
+                "quantidade": 1
+            },
+            {
+                "codigo": "T0M1C3C0",
+                "quantidade": 1
+            },
+            {
+                "codigo": "S4A1L5O0",
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "nome": "Vinho Tinto Seco Cabernet Sauvignon (Taca)",
+        "descricao": "Vinho encorpado, com notas de frutas vermelhas e toque amadeirado. Ideal para carnes vermelhas.",
+        "preco": 24.0,
+        "ingredientes": [
+            {
+                "codigo": "U0V1C3S0",
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "nome": "Vinho Branco Chardonnay (Taca)",
+        "descricao": "Vinho branco leve e fresco, com notas citricas e amanteigadas. Harmoniza com peixes e massas leves.",
+        "preco": 23.0,
+        "ingredientes": [
+            {
+                "codigo": "U1V2B4C3",
+                "quantidade": 1
+            }
+        ]
+    }
+]

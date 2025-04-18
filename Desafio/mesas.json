@@ -1,0 +1,78 @@
+[
+    {
+        "nome": "Brasil",
+        "capacidade": 4,
+        "status": "ocupada",
+        "pedidos": [
+            {
+                "itens": [
+                    "Spaghetti ao Pesto com Tomatinhos Confitados"
+                ],
+                "total": 42.0,
+                "enviado": true
+            }
+        ],
+        "comanda": "Geovanna"
+    },
+    {
+        "nome": "Italia",
+        "capacidade": 6,
+        "status": "livre",
+        "pedidos": []
+    },
+    {
+        "nome": "Japao",
+        "capacidade": 8,
+        "status": "livre",
+        "pedidos": []
+    },
+    {
+        "nome": "India",
+        "capacidade": 4,
+        "status": "livre",
+        "pedidos": []
+    },
+    {
+        "nome": "Alemanha",
+        "capacidade": 6,
+        "status": "ocupada",
+        "pedidos": [],
+        "comanda": "Bianca"
+    },
+    {
+        "nome": "Turquia",
+        "capacidade": 6,
+        "status": "livre",
+        "pedidos": []
+    },
+    {
+        "nome": "Argentina",
+        "capacidade": 2,
+        "status": "livre",
+        "pedidos": []
+    },
+    {
+        "nome": "Canada",
+        "capacidade": 4,
+        "status": "livre",
+        "pedidos": []
+    },
+    {
+        "nome": "China",
+        "capacidade": 2,
+        "status": "livre",
+        "pedidos": []
+    },
+    {
+        "nome": "Belgica",
+        "capacidade": 2,
+        "status": "livre",
+        "pedidos": []
+    },
+    {
+        "nome": "Russia",
+        "capacidade": 8,
+        "status": "livre",
+        "pedidos": []
+    }
+]

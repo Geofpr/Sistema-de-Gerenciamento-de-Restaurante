@@ -1,0 +1,254 @@
+[
+    {
+        "nome": "Pao brioche",
+        "codigo": "P4B35B1O",
+        "quantidade": 22,
+        "unidade": "kg",
+        "preco": 25.0,
+        "validade": "15/05/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Carne bovina moida",
+        "codigo": "C4R3M3B0",
+        "quantidade": 10,
+        "unidade": "kg",
+        "preco": 35.0,
+        "validade": "30/06/2025",
+        "limite_minimo": 4
+    },
+    {
+        "nome": "Queijo cheddar",
+        "codigo": "Q4U1C0H3",
+        "quantidade": 7,
+        "unidade": "kg",
+        "preco": 40.0,
+        "validade": "10/06/2025",
+        "limite_minimo": 3
+    },
+    {
+        "nome": "Bacon",
+        "codigo": "B4C0N2X1",
+        "quantidade": 24,
+        "unidade": "kg",
+        "preco": 50.0,
+        "validade": "25/06/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Molho barbecue",
+        "codigo": "M0L10B8Q",
+        "quantidade": 24,
+        "unidade": "litros",
+        "preco": 12.0,
+        "validade": "29/08/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Cebola caramelizada",
+        "codigo": "C3B0L4C5",
+        "quantidade": 28,
+        "unidade": "kg",
+        "preco": 10.0,
+        "validade": "20/06/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Grao-de-bico",
+        "codigo": "G4R3B1C0",
+        "quantidade": 8,
+        "unidade": "kg",
+        "preco": 15.0,
+        "validade": "15/07/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Abacate",
+        "codigo": "A1B4C4T3",
+        "quantidade": 50,
+        "unidade": "unidades",
+        "preco": 4.0,
+        "validade": "12/06/2025",
+        "limite_minimo": 5
+    },
+    {
+        "nome": "Tomate cereja",
+        "codigo": "T0M1C3C0",
+        "quantidade": 50,
+        "unidade": "kg",
+        "preco": 20.0,
+        "validade": "12/05/2025",
+        "limite_minimo": 2
+    },
+    {
+        "nome": "Pepino",
+        "codigo": "P3E1C3U2",
+        "quantidade": 50,
+        "unidade": "kg",
+        "preco": 6.0,
+        "validade": "20/04/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Cenoura ralada",
+        "codigo": "C4N0R4L1",
+        "quantidade": 50,
+        "unidade": "kg",
+        "preco": 4.0,
+        "validade": "12/06/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Limao",
+        "codigo": "L1M4O0S1",
+        "quantidade": 50,
+        "unidade": "unidades",
+        "preco": 1.5,
+        "validade": "15/06/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Hortela",
+        "codigo": "H0R1T3L4",
+        "quantidade": 50,
+        "unidade": "kg",
+        "preco": 15.0,
+        "validade": "20/05/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Azeite de oliva",
+        "codigo": "A1Z3O4L5",
+        "quantidade": 50,
+        "unidade": "litros",
+        "preco": 30.0,
+        "validade": "01/12/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Sal",
+        "codigo": "S4A1L5O0",
+        "quantidade": 3,
+        "unidade": "kg",
+        "preco": 3.0,
+        "validade": "12/2026",
+        "limite_minimo": 2
+    },
+    {
+        "nome": "Vinho madeira",
+        "codigo": "V1M4D1R1",
+        "quantidade": 10,
+        "unidade": "litros",
+        "preco": 45.0,
+        "validade": "05/05/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Cogumelos frescos",
+        "codigo": "C0G1M3L2",
+        "quantidade": 50,
+        "unidade": "kg",
+        "preco": 25.0,
+        "validade": "28/06/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Manteiga",
+        "codigo": "M4N10T5",
+        "quantidade": 12,
+        "unidade": "kg",
+        "preco": 30.0,
+        "validade": "10/06/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Batata",
+        "codigo": "B4T4T1A",
+        "quantidade": 20,
+        "unidade": "kg",
+        "preco": 5.0,
+        "validade": "20/06/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Azeite de trufas",
+        "codigo": "A1Z3T4R1",
+        "quantidade": 20,
+        "unidade": "litros",
+        "preco": 70.0,
+        "validade": "30/09/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Leite",
+        "codigo": "L3E1T3E",
+        "quantidade": 8,
+        "unidade": "litros",
+        "preco": 3.0,
+        "validade": "28/05/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Pimenta",
+        "codigo": "P1I2M4E",
+        "quantidade": 50,
+        "unidade": "kg",
+        "preco": 12.0,
+        "validade": "12/05/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Spaghetti",
+        "codigo": "S5P4A2G",
+        "quantidade": 20,
+        "unidade": "kg",
+        "preco": 15.0,
+        "validade": "25/08/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Manjericao",
+        "codigo": "M1N3J5C",
+        "quantidade": 20,
+        "unidade": "kg",
+        "preco": 20.0,
+        "validade": "20/06/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Alho",
+        "codigo": "A1L3H0",
+        "quantidade": 50,
+        "unidade": "kg",
+        "preco": 8.0,
+        "validade": "20/07/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Castanha de caju",
+        "codigo": "C1A2S3C",
+        "quantidade": 30,
+        "unidade": "kg",
+        "preco": 35.0,
+        "validade": "15/06/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Parmesao",
+        "codigo": "P4RM3S3O",
+        "quantidade": 60,
+        "unidade": "kg",
+        "preco": 30.0,
+        "validade": "12/08/2025",
+        "limite_minimo": 6
+    },
+    {
+        "nome": "Macarrao",
+        "codigo": "M4C4RR40",
+        "quantidade": 20,
+        "unidade": "kg",
+        "preco": 1.25,
+        "validade": "25/02/2026",
+        "limite_minimo": 6
+    }
+]
